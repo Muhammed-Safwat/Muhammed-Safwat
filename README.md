@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on freelancing projects
 
-- 🌱 I’m currently learning **javascript.**
+- 🌱 I’m currently learning **Spring Boot.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
