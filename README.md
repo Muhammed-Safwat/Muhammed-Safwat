@@ -2,7 +2,14 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muhammed safwat Full Stack Java Developer</h1>
  
+<style>
 
+     img {
+        width: 48px; /* Adjust the width as desired */
+        height: auto; /* Maintain aspect ratio */
+        margin-right: 8px; /* Adjust the spacing between images */
+    }
+</style>
 
 ## 🙋‍♂️ About Me
 
